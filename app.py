@@ -101,8 +101,8 @@ if uploaded_file is not None:
     
     # Display the predictions
     st.write("Predictions:")
-    st.dataframe(preprocessed_data.reset_index())  # Reset index to show product_id and user_id
-    
+    display_df = preprocessed_data.reset_index()[['product_id', 'user_id', 'reordered']]  # Reset index to show product_id and user_id
+    st.dataframe(display_df)
  
 # Add some instructions and information about the app
 st.sidebar.header('User Instructions')
