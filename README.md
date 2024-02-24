@@ -2,7 +2,7 @@
 [Streamlit App](https://predicting-appucts-reordered-by-customer-7852zyrzsf2axkrqwx8l8.streamlit.app/)
 
 # Description 
-**Objective:** Predict whether a product will be reordered by a Instacart customer
+**Objective:** Predict whether a product will be reordered by a Instacart customer (Supervised Classification Problem - Target Variable (Reordered))
 
 **Significance:**
 
@@ -61,8 +61,7 @@ Moreover, inbalanced dataset was handled and information leakage analysis was co
 Feature Selected was conducted using Lasso and Random Forest
 
 # Results
-Following models were trained and compared to find the best model - XGB Classifier,LGBM Classifier, CatBoost, Stacking Classifier
-
+Following models were trained and compared to find the best model , models compared - XGB Classifier,LGBM Classifier, CatBoost, Stacking Classifier
 
 Final model selected was CatBoost and it was trained using Optuna with Train-Validation-Test Approach acheiving high accuracy and f1 score
 
