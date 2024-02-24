@@ -13,10 +13,14 @@ This dataset contains information about 3 million grocery orders from 200,000 us
 
 # Modelling Approach
 
-*Preprocessing & EDA*
-*Feature Engineering*
+*Preprocessing & EDA
+
+*Feature Engineering
+
 *Distribution Shift & Imbalanced Data
-Feature Selection & Dimension Reduction
-Modeling & Evaluation
+
+*Feature Selection & Dimension Reduction
+
+*Modeling & Evaluation
 
 
