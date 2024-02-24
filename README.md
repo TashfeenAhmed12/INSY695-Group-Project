@@ -1,5 +1,6 @@
 # Instacart Store - Predict If Customer will reorder a Product - Group Project
-[Streamlit App](
+[Streamlit App](https://predicting-appucts-reordered-by-customer-7852zyrzsf2axkrqwx8l8.streamlit.app/)
+
 # Description 
 **Objective:** Predict whether a product will be reordered by a Instacart customer
 
