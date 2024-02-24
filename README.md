@@ -74,7 +74,7 @@ Final model selected was CatBoost and it was trained using Optuna with Train-Val
 * Change in environmental factors or Data Integrity may affect results. For instance, economic shifts, new market entrants, or changes in consumer preferences could alter purchasing patterns
 
 * If the underlying data generating process changes over time model drift might happen
-* 
+
 **Next Steps**
   
 * Optuna to optimize multiple scores concurrently
