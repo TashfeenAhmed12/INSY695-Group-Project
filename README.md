@@ -61,9 +61,13 @@ Moreover, inbalanced dataset was handled and information leakage analysis was co
 Feature Selected was conducted using Lasso and Random Forest
 
 # Results
-Final model was trained using Optuna with Train-Validation-Test Approach acheiving high accuracy and f1 score
+Following models were trained and compared to find the best model - XGB Classifier,LGBM Classifier, CatBoost, Stacking Classifier
 
-![image](https://github.com/TashfeenAhmed12/Predicting-Products-Reordered-by-Customer/assets/76031323/3658c37d-3261-468a-9886-9c43163c60c4)
+
+Final model selected was CatBoost and it was trained using Optuna with Train-Validation-Test Approach acheiving high accuracy and f1 score
+
+![image](https://github.com/TashfeenAhmed12/Predicting-Products-Reordered-by-Customer/assets/76031323/8362e746-c550-413c-961c-63a7b98db420)
+
 
 **Threats to Validity:** 
 
