@@ -7,7 +7,9 @@
 **Significance:**
 
 **Tailored Customer Experience:** Personalize the app interface and recommendations to resonate with individual shopping habits and preferences.
+
 **Enhanced Inventory Management:** Use predictions to inform stock levels, reducing waste and ensuring availability of frequently reordered items.
+
 **Operational Efficiency:** Implement intelligent route planning for deliveries based on predicted orders, saving time and reducing logistical costs
 
 **Hypothesis:** User's order history can signal their product preferences and future buys
